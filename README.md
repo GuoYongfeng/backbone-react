@@ -1,8 +1,5 @@
-##Learning React with Backbone
 
-A Rewrite of [http://cms.moqi.mobi](http://cms.moqi.mobi) in React.js
-
-###DEPENDENCIES
+### 架构说明
 
 - jquery
 - lodash
